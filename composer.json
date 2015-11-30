@@ -1,0 +1,20 @@
+{
+    "name": "robbins-research-international/rest-service-php-library",
+    "description": "A PHP library for connecting to and using the Robbins Research International Rest Services API.",
+    "authors": [
+        {
+            "name": "Andrew",
+            "email": "andrew.chinn@xtechhq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php": ">=5.3.0"
+    },
+    "autoload":{
+        "psr-0":{ 
+        	"RRI\\Rest\\API\\Service\\":"src/",
+        	"RRI\\Rest\\API\\Service\\Core\\Components":"src/"
+         }
+    }
+}
