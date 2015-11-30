@@ -1,5 +1,5 @@
 {
-    "name": "EvansConsulting\RRI-Rest-Service-PHP-Library",
+    "name": "EvansConsulting\\RRI-Rest-Service-PHP-Library",
     "description": "A PHP library for connecting to and using the Robbins Research International Rest Services API.",
     "authors": [
         {
